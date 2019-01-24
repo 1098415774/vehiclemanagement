@@ -1,0 +1,457 @@
+2019-01-24 17:09:38,560 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-01-24 17:09:38,594 DEBUG VFS:77 - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+2019-01-24 17:09:38,595 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.VehicleEntity matches criteria [is assignable to Object]
+2019-01-24 17:09:38,595 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.form.VehicleForm matches criteria [is assignable to Object]
+2019-01-24 17:09:38,596 DEBUG SqlSessionFactoryBean:49 - Scanned package: 'com.sh.vehiclemanagement.demo.entity' for aliases
+2019-01-24 17:09:38,666 DEBUG SqlSessionFactoryBean:49 - Parsed mapper file: 'file [G:\workpath\vehiclemanagement\target\classes\mapping\VehicleMapper.xml]'
+2019-01-24 17:09:41,216 DEBUG FormHandleInterceptor:55 - id ----- class java.lang.Integer
+2019-01-24 17:09:41,217 DEBUG FormHandleInterceptor:55 - vehiclelicence ----- class java.lang.String
+2019-01-24 17:09:41,217 DEBUG FormHandleInterceptor:55 - vehicleowner ----- class java.lang.String
+2019-01-24 17:09:41,217 DEBUG FormHandleInterceptor:55 - vehiclepurchasetime ----- class java.util.Date
+2019-01-24 17:09:41,217 DEBUG FormHandleInterceptor:55 - vehiclebrand ----- class java.lang.String
+2019-01-24 17:09:41,217 DEBUG FormHandleInterceptor:55 - vehiclemodel ----- class java.lang.String
+2019-01-24 17:09:41,217 DEBUG FormHandleInterceptor:55 - vehiclecolor ----- class java.lang.String
+2019-01-24 17:09:41,217 DEBUG FormHandleInterceptor:55 - vehicleseating ----- class java.lang.Integer
+2019-01-24 17:09:41,218 DEBUG FormHandleInterceptor:55 - vehicletype ----- class java.lang.String
+2019-01-24 17:09:41,218 DEBUG FormHandleInterceptor:55 - vehicleaddress ----- class java.lang.String
+2019-01-24 17:09:41,218 DEBUG FormHandleInterceptor:55 - vehicleusecharacter ----- class java.lang.String
+2019-01-24 17:09:41,218 DEBUG FormHandleInterceptor:55 - vehicleengineno ----- class java.lang.String
+2019-01-24 17:09:41,219 DEBUG FormHandleInterceptor:55 - vehiclevin ----- class java.lang.String
+2019-01-24 17:09:41,219 DEBUG FormHandleInterceptor:55 - vehiclefileno ----- class java.lang.String
+2019-01-24 17:09:41,219 DEBUG FormHandleInterceptor:55 - vehicleexamineexpires ----- class java.util.Date
+2019-01-24 17:09:41,219 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpires ----- class java.util.Date
+2019-01-24 17:09:41,219 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpires ----- class java.util.Date
+2019-01-24 17:09:41,219 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpires ----- class java.util.Date
+2019-01-24 17:09:41,219 DEBUG FormHandleInterceptor:55 - creator ----- class java.lang.Integer
+2019-01-24 17:09:41,220 DEBUG FormHandleInterceptor:55 - changer ----- class java.lang.Integer
+2019-01-24 17:09:41,220 DEBUG FormHandleInterceptor:55 - changetime ----- class java.util.Date
+2019-01-24 17:09:41,220 DEBUG FormHandleInterceptor:55 - remark1 ----- class java.lang.String
+2019-01-24 17:09:41,220 DEBUG FormHandleInterceptor:55 - remark ----- class java.lang.String
+2019-01-24 17:09:41,220 DEBUG FormHandleInterceptor:55 - vehicleexamineexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:09:41,220 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:09:41,220 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:09:41,221 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:09:41,221 DEBUG FormHandleInterceptor:55 - mail1 ----- class java.lang.String
+2019-01-24 17:09:41,221 DEBUG FormHandleInterceptor:55 - mail2 ----- class java.lang.String
+2019-01-24 17:09:41,221 DEBUG FormHandleInterceptor:55 - mail3 ----- class java.lang.String
+2019-01-24 17:09:41,221 DEBUG FormHandleInterceptor:55 - mail4 ----- class java.lang.String
+2019-01-24 17:09:41,221 DEBUG FormHandleInterceptor:55 - mailcount ----- class java.lang.Integer
+2019-01-24 17:10:07,607 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-01-24 17:10:07,645 DEBUG VFS:77 - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+2019-01-24 17:10:07,646 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.VehicleEntity matches criteria [is assignable to Object]
+2019-01-24 17:10:07,646 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.form.VehicleForm matches criteria [is assignable to Object]
+2019-01-24 17:10:07,647 DEBUG SqlSessionFactoryBean:49 - Scanned package: 'com.sh.vehiclemanagement.demo.entity' for aliases
+2019-01-24 17:10:07,726 DEBUG SqlSessionFactoryBean:49 - Parsed mapper file: 'file [G:\workpath\vehiclemanagement\target\classes\mapping\VehicleMapper.xml]'
+2019-01-24 17:10:11,012 DEBUG FormHandleInterceptor:55 - id ----- class java.lang.Integer
+2019-01-24 17:10:11,013 DEBUG FormHandleInterceptor:55 - vehiclelicence ----- class java.lang.String
+2019-01-24 17:10:11,013 DEBUG FormHandleInterceptor:55 - vehicleowner ----- class java.lang.String
+2019-01-24 17:10:11,013 DEBUG FormHandleInterceptor:55 - vehiclepurchasetime ----- class java.util.Date
+2019-01-24 17:10:11,014 DEBUG FormHandleInterceptor:55 - vehiclebrand ----- class java.lang.String
+2019-01-24 17:10:11,014 DEBUG FormHandleInterceptor:55 - vehiclemodel ----- class java.lang.String
+2019-01-24 17:10:11,014 DEBUG FormHandleInterceptor:55 - vehiclecolor ----- class java.lang.String
+2019-01-24 17:10:11,014 DEBUG FormHandleInterceptor:55 - vehicleseating ----- class java.lang.Integer
+2019-01-24 17:10:11,014 DEBUG FormHandleInterceptor:55 - vehicletype ----- class java.lang.String
+2019-01-24 17:10:11,014 DEBUG FormHandleInterceptor:55 - vehicleaddress ----- class java.lang.String
+2019-01-24 17:10:11,015 DEBUG FormHandleInterceptor:55 - vehicleusecharacter ----- class java.lang.String
+2019-01-24 17:10:11,015 DEBUG FormHandleInterceptor:55 - vehicleengineno ----- class java.lang.String
+2019-01-24 17:10:11,016 DEBUG FormHandleInterceptor:55 - vehiclevin ----- class java.lang.String
+2019-01-24 17:10:11,016 DEBUG FormHandleInterceptor:55 - vehiclefileno ----- class java.lang.String
+2019-01-24 17:10:11,016 DEBUG FormHandleInterceptor:55 - vehicleexamineexpires ----- class java.util.Date
+2019-01-24 17:10:11,016 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpires ----- class java.util.Date
+2019-01-24 17:10:11,016 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpires ----- class java.util.Date
+2019-01-24 17:10:11,016 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpires ----- class java.util.Date
+2019-01-24 17:10:11,017 DEBUG FormHandleInterceptor:55 - creator ----- class java.lang.Integer
+2019-01-24 17:10:11,017 DEBUG FormHandleInterceptor:55 - changer ----- class java.lang.Integer
+2019-01-24 17:10:11,017 DEBUG FormHandleInterceptor:55 - changetime ----- class java.util.Date
+2019-01-24 17:10:11,017 DEBUG FormHandleInterceptor:55 - remark1 ----- class java.lang.String
+2019-01-24 17:10:11,017 DEBUG FormHandleInterceptor:55 - remark ----- class java.lang.String
+2019-01-24 17:10:11,017 DEBUG FormHandleInterceptor:55 - vehicleexamineexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:10:11,018 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:10:11,018 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:10:11,018 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:10:11,018 DEBUG FormHandleInterceptor:55 - mail1 ----- class java.lang.String
+2019-01-24 17:10:11,018 DEBUG FormHandleInterceptor:55 - mail2 ----- class java.lang.String
+2019-01-24 17:10:11,018 DEBUG FormHandleInterceptor:55 - mail3 ----- class java.lang.String
+2019-01-24 17:10:11,019 DEBUG FormHandleInterceptor:55 - mail4 ----- class java.lang.String
+2019-01-24 17:10:11,019 DEBUG FormHandleInterceptor:55 - mailcount ----- class java.lang.Integer
+2019-01-24 17:10:55,612 DEBUG FormHandleInterceptor:55 - id ----- class java.lang.Integer
+2019-01-24 17:12:01,617 DEBUG FormHandleInterceptor:55 - vehiclelicence ----- class java.lang.String
+2019-01-24 17:12:05,244 DEBUG FormHandleInterceptor:55 - vehicleowner ----- class java.lang.String
+2019-01-24 17:12:07,195 DEBUG FormHandleInterceptor:55 - vehiclepurchasetime ----- class java.util.Date
+2019-01-24 17:17:29,618 DEBUG FormHandleInterceptor:55 - vehiclebrand ----- class java.lang.String
+2019-01-24 17:17:29,627 DEBUG FormHandleInterceptor:55 - vehiclemodel ----- class java.lang.String
+2019-01-24 17:17:29,628 DEBUG FormHandleInterceptor:55 - vehiclecolor ----- class java.lang.String
+2019-01-24 17:17:29,629 DEBUG FormHandleInterceptor:55 - vehicleseating ----- class java.lang.Integer
+2019-01-24 17:17:29,629 DEBUG FormHandleInterceptor:55 - vehicletype ----- class java.lang.String
+2019-01-24 17:17:29,630 DEBUG FormHandleInterceptor:55 - vehicleaddress ----- class java.lang.String
+2019-01-24 17:17:29,631 DEBUG FormHandleInterceptor:55 - vehicleusecharacter ----- class java.lang.String
+2019-01-24 17:17:29,632 DEBUG FormHandleInterceptor:55 - vehicleengineno ----- class java.lang.String
+2019-01-24 17:17:29,633 DEBUG FormHandleInterceptor:55 - vehiclevin ----- class java.lang.String
+2019-01-24 17:17:29,633 DEBUG FormHandleInterceptor:55 - vehiclefileno ----- class java.lang.String
+2019-01-24 17:17:29,634 DEBUG FormHandleInterceptor:55 - vehicleexamineexpires ----- class java.util.Date
+2019-01-24 17:17:29,635 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpires ----- class java.util.Date
+2019-01-24 17:17:34,679 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-01-24 17:17:34,718 DEBUG VFS:77 - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+2019-01-24 17:17:34,720 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.VehicleEntity matches criteria [is assignable to Object]
+2019-01-24 17:17:34,720 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.form.VehicleForm matches criteria [is assignable to Object]
+2019-01-24 17:17:34,721 DEBUG SqlSessionFactoryBean:49 - Scanned package: 'com.sh.vehiclemanagement.demo.entity' for aliases
+2019-01-24 17:17:34,800 DEBUG SqlSessionFactoryBean:49 - Parsed mapper file: 'file [G:\workpath\vehiclemanagement\target\classes\mapping\VehicleMapper.xml]'
+2019-01-24 17:17:39,693 DEBUG FormHandleInterceptor:55 - id ----- class java.lang.Integer
+2019-01-24 17:17:44,867 DEBUG FormHandleInterceptor:55 - vehiclelicence ----- class java.lang.String
+2019-01-24 17:17:46,099 DEBUG FormHandleInterceptor:55 - vehicleowner ----- class java.lang.String
+2019-01-24 17:17:46,842 DEBUG FormHandleInterceptor:55 - vehiclepurchasetime ----- class java.util.Date
+2019-01-24 17:18:40,308 DEBUG FormHandleInterceptor:55 - vehiclebrand ----- class java.lang.String
+2019-01-24 17:18:40,312 DEBUG FormHandleInterceptor:55 - vehiclemodel ----- class java.lang.String
+2019-01-24 17:18:40,313 DEBUG FormHandleInterceptor:55 - vehiclecolor ----- class java.lang.String
+2019-01-24 17:18:40,313 DEBUG FormHandleInterceptor:55 - vehicleseating ----- class java.lang.Integer
+2019-01-24 17:18:40,314 DEBUG FormHandleInterceptor:55 - vehicletype ----- class java.lang.String
+2019-01-24 17:18:40,315 DEBUG FormHandleInterceptor:55 - vehicleaddress ----- class java.lang.String
+2019-01-24 17:18:40,318 DEBUG FormHandleInterceptor:55 - vehicleusecharacter ----- class java.lang.String
+2019-01-24 17:18:40,319 DEBUG FormHandleInterceptor:55 - vehicleengineno ----- class java.lang.String
+2019-01-24 17:18:40,319 DEBUG FormHandleInterceptor:55 - vehiclevin ----- class java.lang.String
+2019-01-24 17:18:40,320 DEBUG FormHandleInterceptor:55 - vehiclefileno ----- class java.lang.String
+2019-01-24 17:18:40,321 DEBUG FormHandleInterceptor:55 - vehicleexamineexpires ----- class java.util.Date
+2019-01-24 17:18:40,321 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpires ----- class java.util.Date
+2019-01-24 17:18:40,322 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpires ----- class java.util.Date
+2019-01-24 17:18:40,323 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpires ----- class java.util.Date
+2019-01-24 17:18:40,323 DEBUG FormHandleInterceptor:55 - creator ----- class java.lang.Integer
+2019-01-24 17:18:45,293 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-01-24 17:18:45,332 DEBUG VFS:77 - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+2019-01-24 17:18:45,334 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.VehicleEntity matches criteria [is assignable to Object]
+2019-01-24 17:18:45,334 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.form.VehicleForm matches criteria [is assignable to Object]
+2019-01-24 17:18:45,335 DEBUG SqlSessionFactoryBean:49 - Scanned package: 'com.sh.vehiclemanagement.demo.entity' for aliases
+2019-01-24 17:18:45,414 DEBUG SqlSessionFactoryBean:49 - Parsed mapper file: 'file [G:\workpath\vehiclemanagement\target\classes\mapping\VehicleMapper.xml]'
+2019-01-24 17:18:58,987 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-01-24 17:18:59,025 DEBUG VFS:77 - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+2019-01-24 17:18:59,027 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.VehicleEntity matches criteria [is assignable to Object]
+2019-01-24 17:18:59,027 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.form.VehicleForm matches criteria [is assignable to Object]
+2019-01-24 17:18:59,028 DEBUG SqlSessionFactoryBean:49 - Scanned package: 'com.sh.vehiclemanagement.demo.entity' for aliases
+2019-01-24 17:18:59,111 DEBUG SqlSessionFactoryBean:49 - Parsed mapper file: 'file [G:\workpath\vehiclemanagement\target\classes\mapping\VehicleMapper.xml]'
+2019-01-24 17:19:46,385 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-01-24 17:19:46,428 DEBUG VFS:77 - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+2019-01-24 17:19:46,430 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.VehicleEntity matches criteria [is assignable to Object]
+2019-01-24 17:19:46,430 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.form.VehicleForm matches criteria [is assignable to Object]
+2019-01-24 17:19:46,431 DEBUG SqlSessionFactoryBean:49 - Scanned package: 'com.sh.vehiclemanagement.demo.entity' for aliases
+2019-01-24 17:19:46,513 DEBUG SqlSessionFactoryBean:49 - Parsed mapper file: 'file [G:\workpath\vehiclemanagement\target\classes\mapping\VehicleMapper.xml]'
+2019-01-24 17:19:52,090 DEBUG FormHandleInterceptor:55 - id ----- class java.lang.Integer
+2019-01-24 17:19:56,563 DEBUG FormHandleInterceptor:55 - vehiclelicence ----- class java.lang.String
+2019-01-24 17:19:57,579 DEBUG FormHandleInterceptor:55 - vehicleowner ----- class java.lang.String
+2019-01-24 17:19:58,244 DEBUG FormHandleInterceptor:55 - vehiclepurchasetime ----- class java.util.Date
+2019-01-24 17:20:10,473 ERROR FormHandleInterceptor:66 - Unparseable date: "2019-01-20"
+2019-01-24 17:21:26,944 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-01-24 17:21:26,984 DEBUG VFS:77 - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+2019-01-24 17:21:26,986 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.VehicleEntity matches criteria [is assignable to Object]
+2019-01-24 17:21:26,986 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.form.VehicleForm matches criteria [is assignable to Object]
+2019-01-24 17:21:26,987 DEBUG SqlSessionFactoryBean:49 - Scanned package: 'com.sh.vehiclemanagement.demo.entity' for aliases
+2019-01-24 17:21:27,066 DEBUG SqlSessionFactoryBean:49 - Parsed mapper file: 'file [G:\workpath\vehiclemanagement\target\classes\mapping\VehicleMapper.xml]'
+2019-01-24 17:21:31,218 DEBUG FormHandleInterceptor:55 - id ----- class java.lang.Integer
+2019-01-24 17:21:32,821 DEBUG FormHandleInterceptor:55 - vehiclelicence ----- class java.lang.String
+2019-01-24 17:21:33,587 DEBUG FormHandleInterceptor:55 - vehicleowner ----- class java.lang.String
+2019-01-24 17:21:34,147 DEBUG FormHandleInterceptor:55 - vehiclepurchasetime ----- class java.util.Date
+2019-01-24 17:21:58,339 ERROR FormHandleInterceptor:66 - Unparseable date: "2019-01-20"
+2019-01-24 17:23:54,699 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-01-24 17:23:54,737 DEBUG VFS:77 - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+2019-01-24 17:23:54,738 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.VehicleEntity matches criteria [is assignable to Object]
+2019-01-24 17:23:54,739 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.form.VehicleForm matches criteria [is assignable to Object]
+2019-01-24 17:23:54,739 DEBUG SqlSessionFactoryBean:49 - Scanned package: 'com.sh.vehiclemanagement.demo.entity' for aliases
+2019-01-24 17:23:54,820 DEBUG SqlSessionFactoryBean:49 - Parsed mapper file: 'file [G:\workpath\vehiclemanagement\target\classes\mapping\VehicleMapper.xml]'
+2019-01-24 17:23:58,746 DEBUG FormHandleInterceptor:55 - id ----- class java.lang.Integer
+2019-01-24 17:24:02,677 DEBUG FormHandleInterceptor:55 - vehiclelicence ----- class java.lang.String
+2019-01-24 17:24:03,131 DEBUG FormHandleInterceptor:55 - vehicleowner ----- class java.lang.String
+2019-01-24 17:24:03,747 DEBUG FormHandleInterceptor:55 - vehiclepurchasetime ----- class java.util.Date
+2019-01-24 17:24:23,722 DEBUG FormHandleInterceptor:55 - vehiclebrand ----- class java.lang.String
+2019-01-24 17:24:23,726 DEBUG FormHandleInterceptor:55 - vehiclemodel ----- class java.lang.String
+2019-01-24 17:24:23,727 DEBUG FormHandleInterceptor:55 - vehiclecolor ----- class java.lang.String
+2019-01-24 17:24:23,727 DEBUG FormHandleInterceptor:55 - vehicleseating ----- class java.lang.Integer
+2019-01-24 17:24:23,728 DEBUG FormHandleInterceptor:55 - vehicletype ----- class java.lang.String
+2019-01-24 17:24:23,729 DEBUG FormHandleInterceptor:55 - vehicleaddress ----- class java.lang.String
+2019-01-24 17:24:23,731 DEBUG FormHandleInterceptor:55 - vehicleusecharacter ----- class java.lang.String
+2019-01-24 17:24:23,732 DEBUG FormHandleInterceptor:55 - vehicleengineno ----- class java.lang.String
+2019-01-24 17:24:23,733 DEBUG FormHandleInterceptor:55 - vehiclevin ----- class java.lang.String
+2019-01-24 17:24:23,734 DEBUG FormHandleInterceptor:55 - vehiclefileno ----- class java.lang.String
+2019-01-24 17:24:53,201 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-01-24 17:24:53,239 DEBUG VFS:77 - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+2019-01-24 17:24:53,241 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.VehicleEntity matches criteria [is assignable to Object]
+2019-01-24 17:24:53,241 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.form.VehicleForm matches criteria [is assignable to Object]
+2019-01-24 17:24:53,241 DEBUG SqlSessionFactoryBean:49 - Scanned package: 'com.sh.vehiclemanagement.demo.entity' for aliases
+2019-01-24 17:24:53,311 DEBUG SqlSessionFactoryBean:49 - Parsed mapper file: 'file [G:\workpath\vehiclemanagement\target\classes\mapping\VehicleMapper.xml]'
+2019-01-24 17:24:56,276 DEBUG FormHandleInterceptor:55 - id ----- class java.lang.Integer
+2019-01-24 17:24:56,277 DEBUG FormHandleInterceptor:55 - vehiclelicence ----- class java.lang.String
+2019-01-24 17:24:56,278 DEBUG FormHandleInterceptor:55 - vehicleowner ----- class java.lang.String
+2019-01-24 17:24:56,278 DEBUG FormHandleInterceptor:55 - vehiclepurchasetime ----- class java.util.Date
+2019-01-24 17:24:56,279 DEBUG FormHandleInterceptor:55 - vehiclebrand ----- class java.lang.String
+2019-01-24 17:24:56,279 DEBUG FormHandleInterceptor:55 - vehiclemodel ----- class java.lang.String
+2019-01-24 17:24:56,279 DEBUG FormHandleInterceptor:55 - vehiclecolor ----- class java.lang.String
+2019-01-24 17:24:56,279 DEBUG FormHandleInterceptor:55 - vehicleseating ----- class java.lang.Integer
+2019-01-24 17:24:56,279 DEBUG FormHandleInterceptor:55 - vehicletype ----- class java.lang.String
+2019-01-24 17:24:56,279 DEBUG FormHandleInterceptor:55 - vehicleaddress ----- class java.lang.String
+2019-01-24 17:24:56,280 DEBUG FormHandleInterceptor:55 - vehicleusecharacter ----- class java.lang.String
+2019-01-24 17:24:56,280 DEBUG FormHandleInterceptor:55 - vehicleengineno ----- class java.lang.String
+2019-01-24 17:24:56,280 DEBUG FormHandleInterceptor:55 - vehiclevin ----- class java.lang.String
+2019-01-24 17:24:56,281 DEBUG FormHandleInterceptor:55 - vehiclefileno ----- class java.lang.String
+2019-01-24 17:24:56,281 DEBUG FormHandleInterceptor:55 - vehicleexamineexpires ----- class java.util.Date
+2019-01-24 17:24:56,281 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpires ----- class java.util.Date
+2019-01-24 17:24:56,281 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpires ----- class java.util.Date
+2019-01-24 17:24:56,281 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpires ----- class java.util.Date
+2019-01-24 17:24:56,281 DEBUG FormHandleInterceptor:55 - creator ----- class java.lang.Integer
+2019-01-24 17:24:56,282 DEBUG FormHandleInterceptor:55 - changer ----- class java.lang.Integer
+2019-01-24 17:24:56,282 DEBUG FormHandleInterceptor:55 - changetime ----- class java.util.Date
+2019-01-24 17:24:56,282 DEBUG FormHandleInterceptor:55 - remark1 ----- class java.lang.String
+2019-01-24 17:24:56,282 DEBUG FormHandleInterceptor:55 - remark ----- class java.lang.String
+2019-01-24 17:24:56,282 DEBUG FormHandleInterceptor:55 - vehicleexamineexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:24:56,282 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:24:56,282 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:24:56,282 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:24:56,283 DEBUG FormHandleInterceptor:55 - mail1 ----- class java.lang.String
+2019-01-24 17:24:56,283 DEBUG FormHandleInterceptor:55 - mail2 ----- class java.lang.String
+2019-01-24 17:24:56,283 DEBUG FormHandleInterceptor:55 - mail3 ----- class java.lang.String
+2019-01-24 17:24:56,283 DEBUG FormHandleInterceptor:55 - mail4 ----- class java.lang.String
+2019-01-24 17:24:56,283 DEBUG FormHandleInterceptor:55 - mailcount ----- class java.lang.Integer
+2019-01-24 17:25:17,161 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-01-24 17:25:17,207 DEBUG VFS:77 - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+2019-01-24 17:25:17,208 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.VehicleEntity matches criteria [is assignable to Object]
+2019-01-24 17:25:17,209 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.form.VehicleForm matches criteria [is assignable to Object]
+2019-01-24 17:25:17,210 DEBUG SqlSessionFactoryBean:49 - Scanned package: 'com.sh.vehiclemanagement.demo.entity' for aliases
+2019-01-24 17:25:17,290 DEBUG SqlSessionFactoryBean:49 - Parsed mapper file: 'file [G:\workpath\vehiclemanagement\target\classes\mapping\VehicleMapper.xml]'
+2019-01-24 17:25:33,099 DEBUG FormHandleInterceptor:55 - id ----- class java.lang.Integer
+2019-01-24 17:25:37,995 DEBUG FormHandleInterceptor:55 - vehiclelicence ----- class java.lang.String
+2019-01-24 17:25:38,529 DEBUG FormHandleInterceptor:55 - vehicleowner ----- class java.lang.String
+2019-01-24 17:25:39,107 DEBUG FormHandleInterceptor:55 - vehiclepurchasetime ----- class java.util.Date
+2019-01-24 17:26:33,474 DEBUG FormHandleInterceptor:55 - vehiclebrand ----- class java.lang.String
+2019-01-24 17:26:50,583 DEBUG FormHandleInterceptor:55 - vehiclemodel ----- class java.lang.String
+2019-01-24 17:26:58,635 DEBUG FormHandleInterceptor:55 - vehiclecolor ----- class java.lang.String
+2019-01-24 17:27:03,051 DEBUG FormHandleInterceptor:55 - vehicleseating ----- class java.lang.Integer
+2019-01-24 17:27:05,963 DEBUG FormHandleInterceptor:55 - vehicletype ----- class java.lang.String
+2019-01-24 17:27:08,755 DEBUG FormHandleInterceptor:55 - vehicleaddress ----- class java.lang.String
+2019-01-24 17:27:11,804 DEBUG FormHandleInterceptor:55 - vehicleusecharacter ----- class java.lang.String
+2019-01-24 17:27:16,324 DEBUG FormHandleInterceptor:55 - vehicleengineno ----- class java.lang.String
+2019-01-24 17:27:17,548 DEBUG FormHandleInterceptor:55 - vehiclevin ----- class java.lang.String
+2019-01-24 17:27:18,348 DEBUG FormHandleInterceptor:55 - vehiclefileno ----- class java.lang.String
+2019-01-24 17:27:19,315 DEBUG FormHandleInterceptor:55 - vehicleexamineexpires ----- class java.util.Date
+2019-01-24 17:27:20,540 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpires ----- class java.util.Date
+2019-01-24 17:27:21,532 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpires ----- class java.util.Date
+2019-01-24 17:27:22,169 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpires ----- class java.util.Date
+2019-01-24 17:27:22,787 DEBUG FormHandleInterceptor:55 - creator ----- class java.lang.Integer
+2019-01-24 17:27:23,403 DEBUG FormHandleInterceptor:55 - changer ----- class java.lang.Integer
+2019-01-24 17:27:24,045 DEBUG FormHandleInterceptor:55 - changetime ----- class java.util.Date
+2019-01-24 17:27:24,683 DEBUG FormHandleInterceptor:55 - remark1 ----- class java.lang.String
+2019-01-24 17:27:25,556 DEBUG FormHandleInterceptor:55 - remark ----- class java.lang.String
+2019-01-24 17:27:26,067 DEBUG FormHandleInterceptor:55 - vehicleexamineexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:27:26,571 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:27:27,075 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:27:27,522 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:27:27,971 DEBUG FormHandleInterceptor:55 - mail1 ----- class java.lang.String
+2019-01-24 17:27:28,627 DEBUG FormHandleInterceptor:55 - mail2 ----- class java.lang.String
+2019-01-24 17:27:29,148 DEBUG FormHandleInterceptor:55 - mail3 ----- class java.lang.String
+2019-01-24 17:27:30,028 DEBUG FormHandleInterceptor:55 - mail4 ----- class java.lang.String
+2019-01-24 17:27:30,652 DEBUG FormHandleInterceptor:55 - mailcount ----- class java.lang.Integer
+2019-01-24 17:27:39,718 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-01-24 17:27:39,759 DEBUG VFS:77 - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+2019-01-24 17:27:39,761 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.VehicleEntity matches criteria [is assignable to Object]
+2019-01-24 17:27:39,761 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.form.VehicleForm matches criteria [is assignable to Object]
+2019-01-24 17:27:39,761 DEBUG SqlSessionFactoryBean:49 - Scanned package: 'com.sh.vehiclemanagement.demo.entity' for aliases
+2019-01-24 17:27:39,833 DEBUG SqlSessionFactoryBean:49 - Parsed mapper file: 'file [G:\workpath\vehiclemanagement\target\classes\mapping\VehicleMapper.xml]'
+2019-01-24 17:27:43,526 DEBUG FormHandleInterceptor:55 - id ----- class java.lang.Integer
+2019-01-24 17:27:43,527 DEBUG FormHandleInterceptor:55 - vehiclelicence ----- class java.lang.String
+2019-01-24 17:27:43,527 DEBUG FormHandleInterceptor:55 - vehicleowner ----- class java.lang.String
+2019-01-24 17:27:43,527 DEBUG FormHandleInterceptor:55 - vehiclepurchasetime ----- class java.util.Date
+2019-01-24 17:27:43,528 DEBUG FormHandleInterceptor:55 - vehiclebrand ----- class java.lang.String
+2019-01-24 17:27:43,529 DEBUG FormHandleInterceptor:55 - vehiclemodel ----- class java.lang.String
+2019-01-24 17:27:43,529 DEBUG FormHandleInterceptor:55 - vehiclecolor ----- class java.lang.String
+2019-01-24 17:27:43,529 DEBUG FormHandleInterceptor:55 - vehicleseating ----- class java.lang.Integer
+2019-01-24 17:27:43,529 DEBUG FormHandleInterceptor:55 - vehicletype ----- class java.lang.String
+2019-01-24 17:27:43,529 DEBUG FormHandleInterceptor:55 - vehicleaddress ----- class java.lang.String
+2019-01-24 17:27:43,530 DEBUG FormHandleInterceptor:55 - vehicleusecharacter ----- class java.lang.String
+2019-01-24 17:27:43,530 DEBUG FormHandleInterceptor:55 - vehicleengineno ----- class java.lang.String
+2019-01-24 17:27:43,530 DEBUG FormHandleInterceptor:55 - vehiclevin ----- class java.lang.String
+2019-01-24 17:27:43,530 DEBUG FormHandleInterceptor:55 - vehiclefileno ----- class java.lang.String
+2019-01-24 17:27:43,530 DEBUG FormHandleInterceptor:55 - vehicleexamineexpires ----- class java.util.Date
+2019-01-24 17:27:43,531 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpires ----- class java.util.Date
+2019-01-24 17:27:43,531 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpires ----- class java.util.Date
+2019-01-24 17:27:43,531 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpires ----- class java.util.Date
+2019-01-24 17:27:43,531 DEBUG FormHandleInterceptor:55 - creator ----- class java.lang.Integer
+2019-01-24 17:27:43,531 DEBUG FormHandleInterceptor:55 - changer ----- class java.lang.Integer
+2019-01-24 17:27:43,531 DEBUG FormHandleInterceptor:55 - changetime ----- class java.util.Date
+2019-01-24 17:27:43,532 DEBUG FormHandleInterceptor:55 - remark1 ----- class java.lang.String
+2019-01-24 17:27:43,532 DEBUG FormHandleInterceptor:55 - remark ----- class java.lang.String
+2019-01-24 17:27:43,532 DEBUG FormHandleInterceptor:55 - vehicleexamineexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:27:43,532 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:27:43,532 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:27:43,532 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:27:43,532 DEBUG FormHandleInterceptor:55 - mail1 ----- class java.lang.String
+2019-01-24 17:27:43,532 DEBUG FormHandleInterceptor:55 - mail2 ----- class java.lang.String
+2019-01-24 17:27:43,533 DEBUG FormHandleInterceptor:55 - mail3 ----- class java.lang.String
+2019-01-24 17:27:43,533 DEBUG FormHandleInterceptor:55 - mail4 ----- class java.lang.String
+2019-01-24 17:27:43,533 DEBUG FormHandleInterceptor:55 - mailcount ----- class java.lang.Integer
+2019-01-24 17:30:19,371 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-01-24 17:30:19,410 DEBUG VFS:77 - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+2019-01-24 17:30:19,411 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.VehicleEntity matches criteria [is assignable to Object]
+2019-01-24 17:30:19,411 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.form.VehicleForm matches criteria [is assignable to Object]
+2019-01-24 17:30:19,412 DEBUG SqlSessionFactoryBean:49 - Scanned package: 'com.sh.vehiclemanagement.demo.entity' for aliases
+2019-01-24 17:30:19,493 DEBUG SqlSessionFactoryBean:49 - Parsed mapper file: 'file [G:\workpath\vehiclemanagement\target\classes\mapping\VehicleMapper.xml]'
+2019-01-24 17:30:45,733 DEBUG FormHandleInterceptor:55 - id ----- class java.lang.Integer
+2019-01-24 17:30:45,739 DEBUG FormHandleInterceptor:55 - vehiclelicence ----- class java.lang.String
+2019-01-24 17:30:45,743 DEBUG FormHandleInterceptor:55 - vehicleowner ----- class java.lang.String
+2019-01-24 17:30:45,746 DEBUG FormHandleInterceptor:55 - vehiclepurchasetime ----- class java.util.Date
+2019-01-24 17:30:45,755 DEBUG FormHandleInterceptor:55 - vehiclebrand ----- class java.lang.String
+2019-01-24 17:30:45,757 DEBUG FormHandleInterceptor:55 - vehiclemodel ----- class java.lang.String
+2019-01-24 17:30:45,760 DEBUG FormHandleInterceptor:55 - vehiclecolor ----- class java.lang.String
+2019-01-24 17:30:45,763 DEBUG FormHandleInterceptor:55 - vehicleseating ----- class java.lang.Integer
+2019-01-24 17:30:45,765 DEBUG FormHandleInterceptor:55 - vehicletype ----- class java.lang.String
+2019-01-24 17:30:45,766 DEBUG FormHandleInterceptor:55 - vehicleaddress ----- class java.lang.String
+2019-01-24 17:30:45,779 DEBUG FormHandleInterceptor:55 - vehicleusecharacter ----- class java.lang.String
+2019-01-24 17:30:45,781 DEBUG FormHandleInterceptor:55 - vehicleengineno ----- class java.lang.String
+2019-01-24 17:30:45,782 DEBUG FormHandleInterceptor:55 - vehiclevin ----- class java.lang.String
+2019-01-24 17:30:45,784 DEBUG FormHandleInterceptor:55 - vehiclefileno ----- class java.lang.String
+2019-01-24 17:30:45,785 DEBUG FormHandleInterceptor:55 - vehicleexamineexpires ----- class java.util.Date
+2019-01-24 17:30:45,787 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpires ----- class java.util.Date
+2019-01-24 17:30:45,789 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpires ----- class java.util.Date
+2019-01-24 17:30:45,790 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpires ----- class java.util.Date
+2019-01-24 17:30:45,792 DEBUG FormHandleInterceptor:55 - creator ----- class java.lang.Integer
+2019-01-24 17:30:45,793 DEBUG FormHandleInterceptor:55 - changer ----- class java.lang.Integer
+2019-01-24 17:30:45,794 DEBUG FormHandleInterceptor:55 - changetime ----- class java.util.Date
+2019-01-24 17:30:45,795 DEBUG FormHandleInterceptor:55 - remark1 ----- class java.lang.String
+2019-01-24 17:30:45,796 DEBUG FormHandleInterceptor:55 - remark ----- class java.lang.String
+2019-01-24 17:30:45,797 DEBUG FormHandleInterceptor:55 - vehicleexamineexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:30:45,798 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:30:45,798 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:30:45,799 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:30:45,800 DEBUG FormHandleInterceptor:55 - mail1 ----- class java.lang.String
+2019-01-24 17:30:45,801 DEBUG FormHandleInterceptor:55 - mail2 ----- class java.lang.String
+2019-01-24 17:30:45,801 DEBUG FormHandleInterceptor:55 - mail3 ----- class java.lang.String
+2019-01-24 17:30:45,802 DEBUG FormHandleInterceptor:55 - mail4 ----- class java.lang.String
+2019-01-24 17:30:45,803 DEBUG FormHandleInterceptor:55 - mailcount ----- class java.lang.Integer
+2019-01-24 17:33:58,676 DEBUG FormHandleInterceptor:55 - id ----- class java.lang.Integer
+2019-01-24 17:33:58,677 DEBUG FormHandleInterceptor:55 - vehiclelicence ----- class java.lang.String
+2019-01-24 17:33:58,679 DEBUG FormHandleInterceptor:55 - vehicleowner ----- class java.lang.String
+2019-01-24 17:33:58,680 DEBUG FormHandleInterceptor:55 - vehiclepurchasetime ----- class java.util.Date
+2019-01-24 17:33:58,682 DEBUG FormHandleInterceptor:55 - vehiclebrand ----- class java.lang.String
+2019-01-24 17:33:58,682 DEBUG FormHandleInterceptor:55 - vehiclemodel ----- class java.lang.String
+2019-01-24 17:33:58,684 DEBUG FormHandleInterceptor:55 - vehiclecolor ----- class java.lang.String
+2019-01-24 17:33:58,685 DEBUG FormHandleInterceptor:55 - vehicleseating ----- class java.lang.Integer
+2019-01-24 17:33:58,686 DEBUG FormHandleInterceptor:55 - vehicletype ----- class java.lang.String
+2019-01-24 17:33:58,686 DEBUG FormHandleInterceptor:55 - vehicleaddress ----- class java.lang.String
+2019-01-24 17:33:58,687 DEBUG FormHandleInterceptor:55 - vehicleusecharacter ----- class java.lang.String
+2019-01-24 17:33:58,688 DEBUG FormHandleInterceptor:55 - vehicleengineno ----- class java.lang.String
+2019-01-24 17:33:58,688 DEBUG FormHandleInterceptor:55 - vehiclevin ----- class java.lang.String
+2019-01-24 17:33:58,689 DEBUG FormHandleInterceptor:55 - vehiclefileno ----- class java.lang.String
+2019-01-24 17:33:58,690 DEBUG FormHandleInterceptor:55 - vehicleexamineexpires ----- class java.util.Date
+2019-01-24 17:33:58,691 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpires ----- class java.util.Date
+2019-01-24 17:33:58,691 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpires ----- class java.util.Date
+2019-01-24 17:33:58,692 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpires ----- class java.util.Date
+2019-01-24 17:33:58,693 DEBUG FormHandleInterceptor:55 - creator ----- class java.lang.Integer
+2019-01-24 17:33:58,693 DEBUG FormHandleInterceptor:55 - changer ----- class java.lang.Integer
+2019-01-24 17:33:58,694 DEBUG FormHandleInterceptor:55 - changetime ----- class java.util.Date
+2019-01-24 17:33:58,694 DEBUG FormHandleInterceptor:55 - remark1 ----- class java.lang.String
+2019-01-24 17:33:58,694 DEBUG FormHandleInterceptor:55 - remark ----- class java.lang.String
+2019-01-24 17:33:58,695 DEBUG FormHandleInterceptor:55 - vehicleexamineexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:33:58,695 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:33:58,695 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:33:58,696 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:33:58,696 DEBUG FormHandleInterceptor:55 - mail1 ----- class java.lang.String
+2019-01-24 17:33:58,696 DEBUG FormHandleInterceptor:55 - mail2 ----- class java.lang.String
+2019-01-24 17:33:58,696 DEBUG FormHandleInterceptor:55 - mail3 ----- class java.lang.String
+2019-01-24 17:33:58,697 DEBUG FormHandleInterceptor:55 - mail4 ----- class java.lang.String
+2019-01-24 17:33:58,697 DEBUG FormHandleInterceptor:55 - mailcount ----- class java.lang.Integer
+2019-01-24 17:35:49,667 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-01-24 17:35:49,708 DEBUG VFS:77 - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+2019-01-24 17:35:49,709 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.VehicleEntity matches criteria [is assignable to Object]
+2019-01-24 17:35:49,709 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.form.VehicleForm matches criteria [is assignable to Object]
+2019-01-24 17:35:49,710 DEBUG SqlSessionFactoryBean:49 - Scanned package: 'com.sh.vehiclemanagement.demo.entity' for aliases
+2019-01-24 17:35:49,781 DEBUG SqlSessionFactoryBean:49 - Parsed mapper file: 'file [G:\workpath\vehiclemanagement\target\classes\mapping\VehicleMapper.xml]'
+2019-01-24 17:35:52,632 DEBUG FormHandleInterceptor:55 - id ----- class java.lang.Integer
+2019-01-24 17:35:52,633 DEBUG FormHandleInterceptor:55 - vehiclelicence ----- class java.lang.String
+2019-01-24 17:35:52,633 DEBUG FormHandleInterceptor:55 - vehicleowner ----- class java.lang.String
+2019-01-24 17:35:52,634 DEBUG FormHandleInterceptor:55 - vehiclepurchasetime ----- class java.util.Date
+2019-01-24 17:35:52,634 DEBUG FormHandleInterceptor:55 - vehiclebrand ----- class java.lang.String
+2019-01-24 17:35:52,635 DEBUG FormHandleInterceptor:55 - vehiclemodel ----- class java.lang.String
+2019-01-24 17:35:52,635 DEBUG FormHandleInterceptor:55 - vehiclecolor ----- class java.lang.String
+2019-01-24 17:35:52,635 DEBUG FormHandleInterceptor:55 - vehicleseating ----- class java.lang.Integer
+2019-01-24 17:35:52,635 DEBUG FormHandleInterceptor:55 - vehicletype ----- class java.lang.String
+2019-01-24 17:35:52,635 DEBUG FormHandleInterceptor:55 - vehicleaddress ----- class java.lang.String
+2019-01-24 17:35:52,636 DEBUG FormHandleInterceptor:55 - vehicleusecharacter ----- class java.lang.String
+2019-01-24 17:35:52,636 DEBUG FormHandleInterceptor:55 - vehicleengineno ----- class java.lang.String
+2019-01-24 17:35:52,636 DEBUG FormHandleInterceptor:55 - vehiclevin ----- class java.lang.String
+2019-01-24 17:35:52,636 DEBUG FormHandleInterceptor:55 - vehiclefileno ----- class java.lang.String
+2019-01-24 17:35:52,636 DEBUG FormHandleInterceptor:55 - vehicleexamineexpires ----- class java.util.Date
+2019-01-24 17:35:52,637 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpires ----- class java.util.Date
+2019-01-24 17:35:52,637 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpires ----- class java.util.Date
+2019-01-24 17:35:52,637 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpires ----- class java.util.Date
+2019-01-24 17:35:52,637 DEBUG FormHandleInterceptor:55 - creator ----- class java.lang.Integer
+2019-01-24 17:35:52,637 DEBUG FormHandleInterceptor:55 - changer ----- class java.lang.Integer
+2019-01-24 17:35:52,637 DEBUG FormHandleInterceptor:55 - changetime ----- class java.util.Date
+2019-01-24 17:35:52,637 DEBUG FormHandleInterceptor:55 - remark1 ----- class java.lang.String
+2019-01-24 17:35:52,638 DEBUG FormHandleInterceptor:55 - remark ----- class java.lang.String
+2019-01-24 17:35:52,638 DEBUG FormHandleInterceptor:55 - vehicleexamineexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:35:52,638 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:35:52,638 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:35:52,639 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:35:52,639 DEBUG FormHandleInterceptor:55 - mail1 ----- class java.lang.String
+2019-01-24 17:35:52,639 DEBUG FormHandleInterceptor:55 - mail2 ----- class java.lang.String
+2019-01-24 17:35:52,639 DEBUG FormHandleInterceptor:55 - mail3 ----- class java.lang.String
+2019-01-24 17:35:52,639 DEBUG FormHandleInterceptor:55 - mail4 ----- class java.lang.String
+2019-01-24 17:35:52,639 DEBUG FormHandleInterceptor:55 - mailcount ----- class java.lang.Integer
+2019-01-24 17:35:52,936 DEBUG SqlSessionUtils:49 - Creating a new SqlSession
+2019-01-24 17:35:52,938 DEBUG SqlSessionUtils:49 - Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5d4dfc07]
+2019-01-24 17:35:52,943 DEBUG SpringManagedTransaction:49 - JDBC Connection [HikariProxyConnection@647109341 wrapping com.mysql.cj.jdbc.ConnectionImpl@7321e7fe] will be managed by Spring
+2019-01-24 17:35:52,946 DEBUG insert:159 - ==>  Preparing: insert into vehiclevanagement (id, VehicleLicence, VehicleOwner, VehiclePurchaseTime, VehicleBrand, VehicleModel, VehicleColor, VehicleSeating, VehicleType, VehicleAddress, VehicleUseCharacter, VehicleEngineNo, VehicleVin, VehicleFileNo, VehicleExamineExpires, VehicleAnnualTicketExpires, VehicleAndVesselTaxExpires, VehicleInsuranceExpires, Creator, Createtime, Changer, ChangeTime, remark1, Remark, VehicleExamineExpiresNotifyCount, VehicleAnnualTicketExpiresNotifyCount, VehicleAndVesselTaxExpiresNotifyCount, VehicleInsuranceExpiresNotifyCount, mail1, mail2, mail3, mail4, mailcount) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) 
+2019-01-24 17:35:52,968 DEBUG insert:159 - ==> Parameters: null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 2019-01-24 17:35:52.657(Timestamp), null, null, null, null, null, null, null, null, null, null, null, null, null
+2019-01-24 17:35:52,972 DEBUG insert:159 - <==    Updates: 1
+2019-01-24 17:35:52,973 DEBUG SqlSessionUtils:49 - Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5d4dfc07]
+2019-01-24 17:35:52,974 DEBUG SqlSessionUtils:49 - Transaction synchronization committing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5d4dfc07]
+2019-01-24 17:35:52,974 DEBUG SqlSessionUtils:49 - Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5d4dfc07]
+2019-01-24 17:35:52,974 DEBUG SqlSessionUtils:49 - Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5d4dfc07]
+2019-01-24 17:37:56,016 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-01-24 17:37:56,050 DEBUG VFS:77 - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+2019-01-24 17:37:56,051 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.VehicleEntity matches criteria [is assignable to Object]
+2019-01-24 17:37:56,051 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.form.VehicleForm matches criteria [is assignable to Object]
+2019-01-24 17:37:56,052 DEBUG SqlSessionFactoryBean:49 - Scanned package: 'com.sh.vehiclemanagement.demo.entity' for aliases
+2019-01-24 17:37:56,123 DEBUG SqlSessionFactoryBean:49 - Parsed mapper file: 'file [G:\workpath\vehiclemanagement\target\classes\mapping\VehicleMapper.xml]'
+2019-01-24 17:43:26,624 DEBUG LogFactory:105 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-01-24 17:43:26,666 DEBUG VFS:77 - Using VFS adapter org.mybatis.spring.boot.autoconfigure.SpringBootVFS
+2019-01-24 17:43:26,667 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.VehicleEntity matches criteria [is assignable to Object]
+2019-01-24 17:43:26,667 DEBUG ResolverUtil:256 - Checking to see if class com.sh.vehiclemanagement.demo.entity.form.VehicleForm matches criteria [is assignable to Object]
+2019-01-24 17:43:26,668 DEBUG SqlSessionFactoryBean:49 - Scanned package: 'com.sh.vehiclemanagement.demo.entity' for aliases
+2019-01-24 17:43:26,737 DEBUG SqlSessionFactoryBean:49 - Parsed mapper file: 'file [G:\workpath\vehiclemanagement\target\classes\mapping\VehicleMapper.xml]'
+2019-01-24 17:43:36,059 DEBUG FormHandleInterceptor:55 - id ----- class java.lang.Integer
+2019-01-24 17:43:36,059 DEBUG FormHandleInterceptor:55 - vehiclelicence ----- class java.lang.String
+2019-01-24 17:43:36,059 DEBUG FormHandleInterceptor:55 - vehicleowner ----- class java.lang.String
+2019-01-24 17:43:36,060 DEBUG FormHandleInterceptor:55 - vehiclepurchasetime ----- class java.util.Date
+2019-01-24 17:43:36,060 DEBUG FormHandleInterceptor:55 - vehiclebrand ----- class java.lang.String
+2019-01-24 17:43:36,061 DEBUG FormHandleInterceptor:55 - vehiclemodel ----- class java.lang.String
+2019-01-24 17:43:36,061 DEBUG FormHandleInterceptor:55 - vehiclecolor ----- class java.lang.String
+2019-01-24 17:43:36,061 DEBUG FormHandleInterceptor:55 - vehicleseating ----- class java.lang.Integer
+2019-01-24 17:43:36,061 DEBUG FormHandleInterceptor:55 - vehicletype ----- class java.lang.String
+2019-01-24 17:43:36,061 DEBUG FormHandleInterceptor:55 - vehicleaddress ----- class java.lang.String
+2019-01-24 17:43:36,062 DEBUG FormHandleInterceptor:55 - vehicleusecharacter ----- class java.lang.String
+2019-01-24 17:43:36,062 DEBUG FormHandleInterceptor:55 - vehicleengineno ----- class java.lang.String
+2019-01-24 17:43:36,062 DEBUG FormHandleInterceptor:55 - vehiclevin ----- class java.lang.String
+2019-01-24 17:43:36,062 DEBUG FormHandleInterceptor:55 - vehiclefileno ----- class java.lang.String
+2019-01-24 17:43:36,062 DEBUG FormHandleInterceptor:55 - vehicleexamineexpires ----- class java.util.Date
+2019-01-24 17:43:36,063 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpires ----- class java.util.Date
+2019-01-24 17:43:36,063 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpires ----- class java.util.Date
+2019-01-24 17:43:36,063 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpires ----- class java.util.Date
+2019-01-24 17:43:36,063 DEBUG FormHandleInterceptor:55 - creator ----- class java.lang.Integer
+2019-01-24 17:43:36,063 DEBUG FormHandleInterceptor:55 - changer ----- class java.lang.Integer
+2019-01-24 17:43:36,063 DEBUG FormHandleInterceptor:55 - changetime ----- class java.util.Date
+2019-01-24 17:43:36,064 DEBUG FormHandleInterceptor:55 - remark1 ----- class java.lang.String
+2019-01-24 17:43:36,064 DEBUG FormHandleInterceptor:55 - remark ----- class java.lang.String
+2019-01-24 17:43:36,064 DEBUG FormHandleInterceptor:55 - vehicleexamineexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:43:36,064 DEBUG FormHandleInterceptor:55 - vehicleannualticketexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:43:36,064 DEBUG FormHandleInterceptor:55 - vehicleandvesseltaxexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:43:36,064 DEBUG FormHandleInterceptor:55 - vehicleinsuranceexpiresnotifycount ----- class java.lang.Integer
+2019-01-24 17:43:36,064 DEBUG FormHandleInterceptor:55 - mail1 ----- class java.lang.String
+2019-01-24 17:43:36,065 DEBUG FormHandleInterceptor:55 - mail2 ----- class java.lang.String
+2019-01-24 17:43:36,065 DEBUG FormHandleInterceptor:55 - mail3 ----- class java.lang.String
+2019-01-24 17:43:36,065 DEBUG FormHandleInterceptor:55 - mail4 ----- class java.lang.String
+2019-01-24 17:43:36,065 DEBUG FormHandleInterceptor:55 - mailcount ----- class java.lang.Integer
+2019-01-24 17:43:36,356 DEBUG SqlSessionUtils:49 - Creating a new SqlSession
+2019-01-24 17:43:36,359 DEBUG SqlSessionUtils:49 - Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7c86cb7e]
+2019-01-24 17:43:36,363 DEBUG SpringManagedTransaction:49 - JDBC Connection [HikariProxyConnection@1579915839 wrapping com.mysql.cj.jdbc.ConnectionImpl@5741d6d0] will be managed by Spring
+2019-01-24 17:43:36,366 DEBUG insert:159 - ==>  Preparing: insert into vehiclevanagement (id, VehicleLicence, VehicleOwner, VehiclePurchaseTime, VehicleBrand, VehicleModel, VehicleColor, VehicleSeating, VehicleType, VehicleAddress, VehicleUseCharacter, VehicleEngineNo, VehicleVin, VehicleFileNo, VehicleExamineExpires, VehicleAnnualTicketExpires, VehicleAndVesselTaxExpires, VehicleInsuranceExpires, Creator, Createtime, Changer, ChangeTime, remark1, Remark, VehicleExamineExpiresNotifyCount, VehicleAnnualTicketExpiresNotifyCount, VehicleAndVesselTaxExpiresNotifyCount, VehicleInsuranceExpiresNotifyCount, mail1, mail2, mail3, mail4, mailcount) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) 
+2019-01-24 17:43:36,387 DEBUG insert:159 - ==> Parameters: null, aaa(String), aa(String), 2019-01-20 00:00:00.0(Timestamp), null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, 2019-01-24 17:43:36.082(Timestamp), null, null, null, null, null, null, null, null, null, null, null, null, null
+2019-01-24 17:43:36,392 DEBUG insert:159 - <==    Updates: 1
+2019-01-24 17:43:36,392 DEBUG SqlSessionUtils:49 - Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7c86cb7e]
+2019-01-24 17:43:36,393 DEBUG SqlSessionUtils:49 - Transaction synchronization committing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7c86cb7e]
+2019-01-24 17:43:36,393 DEBUG SqlSessionUtils:49 - Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7c86cb7e]
+2019-01-24 17:43:36,394 DEBUG SqlSessionUtils:49 - Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7c86cb7e]
